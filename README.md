@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rulien
 - 👀 I’m interested in all dev stuff
 - 🌱 I’m currently learning Shopify and .Net Core
-- 💞️ I’m not looking to collaborate on at this moment.
+- 💞️ I’m not looking to collaborate at this moment.
 - 📫 How to reach me ...
 
 <!---
