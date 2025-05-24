@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Rulien
+- 👋 Hi, I’m Ruliën
 - 👀 I’m interested in all dev stuff
-- 🌱 I’m currently learning Shopify and .Net Core
+- 🌱 I’m currently learning Jetpack Compose and Kotlin
 - 💞️ I’m not looking to collaborate at this moment.
-- 📫 How to reach me ...
+- 📫 Don't reach me!
 
 <!---
 This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
